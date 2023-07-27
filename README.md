@@ -1,3 +1,10 @@
-# LAB211 Course in FPT
-Lab 1
-Lab 2
+# Welcome to Lab project in LAB211 Course
+### Lab 1 
+* Product Management
+* Build DAO Design pattern
+
+### Lab 2 
+* Dealer Account
+* Practice File I/O 
+
+#### Copyright &#169; 2023 Techdy Bear
